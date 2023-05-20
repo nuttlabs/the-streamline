@@ -7,5 +7,5 @@ And a paragraph, followed by a list:
 - Item
 
 ```
-let var = 'Go Heels'
+let var = 'Go Heels!!!'
 ```
