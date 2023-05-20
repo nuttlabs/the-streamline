@@ -7,5 +7,5 @@ And a paragraph, followed by a list:
 - Item
 
 ```
-Code Block or callout!!!
+Code Block or callout!
 ```
