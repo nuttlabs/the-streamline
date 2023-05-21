@@ -32,6 +32,7 @@ Artificial intelligence (AI) is a discipline within computer science that broadl
 
 ### AI IRL
 AI manifests in many forms throughout your daily life:
+
 - Web search engines, like Google
 - Voice assistants, like Alexa and Siri
 - Recommendation engines, like suggested content on YouTube, Netflix and Twitter
@@ -39,20 +40,24 @@ AI manifests in many forms throughout your daily life:
 - Transcribed meetings and voicemails
 - Facial recognition systems, like Apple’s Face ID
 - Autonomous vehicles, like those from Waymo and Tesla
+
 *Google Search’s auto-complete is an AI most of us encounter every day.*
 ![Google Search auto-complete](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_google-autocomplete.jpeg)
 If you’re a digital content creator, you also see a growing number of AI tools for composing and editing text, audio, images and video.
 
 ### Inputs → Outputs (I/O)
 Notwithstanding its form or function, AI always accepts **input values** and returns **output values** (I/O). Depending on the application, those inputs and outputs could be:
+
 - text, such as written human or programming language;
 - audio, such as spoken language or music;
 - imagery or video; or
 - mathematical or binary data.
+
 In some cases, the output triggers an action, such as slamming the breaks of an autonomous vehicle.
 
 ### AI Systems = Prediction Models
 An AI’s output represents its best prediction for the answers sought by the inputs. Fundamentally, **AI systems are prediction models**, which develop from patterns and relationships in “training” data.
+
 *Netflix’s recommendation engine **predicts** which programs you’ll like.*
 ![Netflix recommendation engine](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_netflix-recs.png)
 
