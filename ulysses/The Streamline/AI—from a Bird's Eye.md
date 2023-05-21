@@ -1,6 +1,8 @@
 *Welcome to Part 1 of your AI Jumpstart. Let’s kick off the series with a high-level overview of artificial intelligence, including key concepts that will enhance your understanding ChatGPT, its contemporaries, and the revolution they’re spawning. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
 
+
 ---
+
 
 **Here's how we’ll introduce AI, gang:**
 
@@ -25,7 +27,9 @@
 	- Transformers
 - Impact of AI
 
+
 ---
+
 
 ## AI—from a Bird’s Eye
 Artificial intelligence (AI) is a discipline within computer science that broadly refers to the ability of computers to mimic human cognitive functions, especially reasoning, perception and learning. That empowers them to perform tasks commonly believed to require the human mind, such as interpreting and generating language and multimedia.
@@ -137,6 +141,8 @@ In the coming tutorials, we’ll employ the concepts above to understand ChatGPT
 
 As we unpack AI, we’ll explore the opportunities, the threats, and actionable tactics for leveraging these emerging technologies personally and professionally.
 
+
 ---
+
 
 *If you found this edition helpful, please send [The Streamline](https://www.thestreamline) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
