@@ -136,5 +136,7 @@ The imminent impact of AI can’t be overstated. Bill Gates [describes it best](
 In the coming tutorials, we’ll employ the concepts above to understand ChatGPT, its contemporaries and this revolutionary moment for AI. As you encounter them, I encourage you to revisit this guide to reinforce your understanding.
 
 As we unpack AI, we’ll explore the opportunities, the threats, and actionable tactics for leveraging these emerging technologies personally and professionally.
+
 ---
+
 *If you found this edition helpful, please send [The Streamline](https://www.thestreamline) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
