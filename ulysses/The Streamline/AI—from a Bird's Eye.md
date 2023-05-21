@@ -2,7 +2,7 @@
 
 ---
 
-**Here's how we’ll introduce AI:**
+**Here's how we’ll introduce AI, gang:**
 
 - AI—from a Bird's Eye
 	- AI IRL
