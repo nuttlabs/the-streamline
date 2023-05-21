@@ -1,25 +1,30 @@
 *Welcome to Part 1 of your AI Jumpstart. Let’s kick off the series with a high-level overview of artificial intelligence, including key concepts that will enhance your understanding ChatGPT, its contemporaries, and the revolution they’re spawning. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
 ---
+Here’s a test list:
+
+- Item
+	- Nested Item
+
 **Here's how we’ll introduce AI:**
 - AI—from a Bird's Eye
-	  - AI IRL
-	  - Inputs → Outputs (I/O)
-	  - AI Systems = Prediction Models
-	  - From Science Fiction to Revolution
+	- AI IRL
+	- Inputs → Outputs (I/O)
+	- AI Systems = Prediction Models
+	- From Science Fiction to Revolution
 - General vs. Narrow Intelligence
-	  - Artificial Narrow Intelligence (ANI)
-	  - Artificial General Intelligence (AGI)
+	- Artificial Narrow Intelligence (ANI)
+	- Artificial General Intelligence (AGI)
 - Machine Learning
-	  - Deep Learning
-	  - Neural Network
-	  - Training
+	- Deep Learning
+	- Neural Network
+	- Training
 		- Supervised Learning
 		- Unsupervised Learning
 		- Reinforcement Learning
 - Generative AI
 - Natural Language Processing (NLP)
-	  - Large Language Models (LLMs)
-	  - Transformers
+	- Large Language Models (LLMs)
+	- Transformers
 - Impact of AI
 ---
 ## AI—from a Bird’s Eye
