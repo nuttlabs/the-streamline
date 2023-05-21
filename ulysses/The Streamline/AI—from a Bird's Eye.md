@@ -6,6 +6,7 @@ Here’s a test list:
 	- Nested Item
 
 **Here's how we’ll introduce AI:**
+
 - AI—from a Bird's Eye
 	- AI IRL
 	- Inputs → Outputs (I/O)
@@ -26,6 +27,7 @@ Here’s a test list:
 	- Large Language Models (LLMs)
 	- Transformers
 - Impact of AI
+
 ---
 ## AI—from a Bird’s Eye
 Artificial intelligence (AI) is a discipline within computer science that broadly refers to the ability of computers to mimic human cognitive functions, especially reasoning, perception and learning. That empowers them to perform tasks commonly believed to require the human mind, such as interpreting and generating language and multimedia.
