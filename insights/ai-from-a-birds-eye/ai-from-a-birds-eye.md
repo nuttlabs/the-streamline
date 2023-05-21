@@ -145,7 +145,6 @@ As a young technophile, I learned that a technology’s capability correlates wi
 The imminent impact of AI can’t be overstated. Bill Gates [describes it best](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun):
 
 > The development of AI is as fundamental as the creation of the microprocessor, the personal computer, the Internet, and the mobile phone. It will change the way people work, learn, travel, get health care, and communicate with each other. Entire industries will reorient around it. Businesses will distinguish themselves by how well they use it.
-> 
 
 In the coming tutorials, we’ll employ the concepts above to understand ChatGPT, its contemporaries and this revolutionary moment for AI. As you encounter them, I encourage you to revisit this guide to reinforce your understanding.
 
@@ -153,4 +152,4 @@ As we unpack AI, we’ll explore the opportunities, the threats, and actionable 
 
 ---
 
-*************************If you found this edition helpful, please recommend [AI Precap](https://precap.ai) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
+*If you found this edition helpful, please recommend [AI Precap](https://precap.ai) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
