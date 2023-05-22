@@ -23,7 +23,7 @@
 - Natural Language Processing (NLP)
 	- Large Language Models (LLMs)
 	- Transformers
-- Impacts of AI
+- Impact of AI
 
 ---
 
