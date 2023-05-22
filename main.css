@@ -1,0 +1,8 @@
+hr {
+    border-bottom: none;
+    border-top: 1px solid #000;
+    margin: 30px auto;
+    width: calc(100% + 200px);
+    position: relative;
+    left: -100px;
+}
