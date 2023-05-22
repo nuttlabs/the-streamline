@@ -1,3 +1,9 @@
+:not(li) ul,
+:not(li) ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 hr {
     border-bottom: none;
     border-top: 1px solid #000;
