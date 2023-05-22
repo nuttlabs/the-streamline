@@ -30,6 +30,8 @@
 ## AI—from a Bird’s Eye
 Artificial intelligence (AI) is a discipline within computer science that broadly refers to the ability of computers to mimic human cognitive functions, especially reasoning, perception and learning. That empowers them to perform tasks commonly believed to require the human mind, such as interpreting and generating language and multimedia.
 
+I like to think of AI as technology that learns to perform functions without explicit programing by engineers. Rather than humans defining each step for processing information, the system develops its own model through **machine learning**.
+
 ### AI IRL
 AI manifests in many forms throughout your daily life:
 
