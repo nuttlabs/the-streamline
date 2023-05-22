@@ -4,12 +4,16 @@
  * --------------------- //
 */
 
-li li {
+li ul,
+li ol {
+    margin-bottom: 0;
+}
+
+li li:first-of-type {
     margin-top: 10px;
 }
 
-li ul,
-li ol {
+li li:last-of-type {
     margin-bottom: 0;
 }
 

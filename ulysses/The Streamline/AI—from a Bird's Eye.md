@@ -44,9 +44,7 @@ AI manifests in many forms throughout your daily life:
 - Autonomous vehicles, like those from Waymo and Tesla
 
 *Google Search’s auto-complete is an AI most of us encounter every day.*
-
 ![Google Search auto-complete](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_google-autocomplete.jpeg)
-
 If you’re a digital content creator, you also see a growing number of AI tools for composing and editing text, audio, images and video.
 
 ### Inputs → Outputs (I/O)
@@ -63,9 +61,7 @@ In some cases, the output triggers an action, such as slamming the breaks of an 
 An AI’s output represents its best prediction for the answers sought by the inputs. Fundamentally, **AI systems are prediction models**, which develop from patterns and relationships in “training” data.
 
 *Netflix’s recommendation engine **predicts** which programs you’ll like.*
-
 ![Netflix recommendation engine](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_netflix-recs.png)
-
 ### From Science Fiction to Revolution
 Artificial intelligence became an academic discipline in the mid-1950s, but for more than a half-century, it penetrated mainstream conversations mostly through fictional portrayals.
 
@@ -91,9 +87,7 @@ Deep learning is an advanced form of machine learning powered by a neural networ
 
 ### Neural Network
 An artificial neural network (ANN) is a layered network of nodes simulating connected neurons in the human brain. Each node plays a unique role in the collective algorithm, allowing the system to analyze and generate data at high volumes and efficiency.
-
 ![Artificial Neural Network](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_neural-network.png)
-
 Through “training,” the neural network forms the AI model.
 
 ### Training
@@ -116,9 +110,7 @@ As Netflix demonstrates, many AIs continue learning when deployed.
 Generative AI is a class of AI that produces content, such as text, images, audio or video. Given a prompt, it predicts the requested outcome using the model formed from supervised, unsupervised or reinforcement learning.
 
 In March 2023, an AI-generated photo Pope Francis in a puffy coat overtook (and fooled) the web.
-
 ![Pope in a puffy coat](https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/the-streamline_ai-from-a-birds-eye_puffy-jacket-pope.png)
-
 The following April, a song generated with the voices of Drake and The Weeknd caused an even greater stir:
 \<audio controls\>
 \<source src="https://assets.thestreamline.ai/insights/ai-from-a-birds-eye/Drake-Heart-On-My-Sleeve.mp3" type="audio/mpeg"\>
