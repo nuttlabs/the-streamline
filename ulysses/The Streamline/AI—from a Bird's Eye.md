@@ -154,4 +154,4 @@ As we unpack AI, we’ll explore the opportunities, the threats, and actionable 
 
 ---
 
-*If you found this edition helpful, please send [The Streamline](https://www.thestreamline) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
+*If this was helpful, please send [The Streamline](https://www.thestreamline) to a friend. And feel free to shoot me any questions on [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*

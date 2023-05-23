@@ -5,13 +5,36 @@
  * ------------------------------------------ \\
  * ------------------------------------------ //
 
+ * Variables
  * Universal HTML Elements
  * Embedded Media
- * Custom Features
+ * Insight Features
 
  * ------------------------------------------ \\
  * ------------------------------------------ //
  * End TOC
+ * ------------------------------------------ \\
+ * ------------------------------------------ //
+*/
+
+/*
+ * ------------------------------------------ \\
+ * ------------------------------------------ //
+ * Variables
+ * ------------------------------------------ \\
+ * ------------------------------------------ //
+*/
+
+:root {
+    --color--pink: #E52793;
+    --color--purple: #911DB0;
+    --color--cyan: #2CD7E3;
+}
+
+/*
+ * ------------------------------------------ \\
+ * ------------------------------------------ //
+ * End Variables
  * ------------------------------------------ \\
  * ------------------------------------------ //
 */
@@ -39,11 +62,8 @@ li li:last-of-type {
 
 hr {
     border-bottom: none;
-    border-top: 1px solid #000;
+    border-top: 1px solid #dcdee1;
     margin: 30px auto;
-    width: calc(100% + 200px);
-    position: relative;
-    left: -100px;
 }
 
 /*
@@ -89,9 +109,15 @@ iframe {
 /*
  * ------------------------------------------ \\
  * ------------------------------------------ //
- * Custom Features
+ * Insight Features
  * ------------------------------------------ \\
  * ------------------------------------------ //
+*/
+
+/*
+ * ---------------------- \\
+ * TOC
+ * ---------------------- //
 */
 
 .toc {
@@ -128,22 +154,57 @@ iframe {
 .toc > ul {
     margin: 24px 0 0 20px;
 }
+
 .toc > ul > li:before {
-    border-color: #E52793;
+    border-color: var(--color--pink);
 }
 
 .toc > ul  > li > ul > li:before {
-    border-color: #911DB0;
+    border-color: var(--color--purple);
 }
 
 .toc > ul > li > ul > li > ul > li:before {
-    border-color: #2CD7E3;
+    border-color: var(--color--cyan);
 }
+
+/*
+ * ---------------------- \\
+ * End TOC
+ * ---------------------- //
+*/
+
+/*
+ * ---------------------- \\
+ * Quotes
+ * ---------------------- //
+*/
+
+.i-single blockquote {
+    padding: 0 0 0 24px;
+    margin: 28px;
+    border-left: 2px solid var(--color--cyan);
+    font-size: 1.08em;
+    font-style: italic;
+}
+
+.i-single blockquote p:first-of-type {
+    margin-top: 0;
+}
+
+.i-single blockquote p:last-of-type {
+    margin-bottom: 0;
+}
+
+/*
+ * ---------------------- \\
+ * End quotes
+ * ---------------------- //
+*/
 
 /*
  * ------------------------------------------ \\
  * ------------------------------------------ //
- * End Custom Features
+ * End Insight Features
  * ------------------------------------------ \\
  * ------------------------------------------ //
 */
