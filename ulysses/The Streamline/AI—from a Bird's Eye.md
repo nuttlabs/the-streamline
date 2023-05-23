@@ -2,9 +2,8 @@
 
 \<!-- youTube(gDJzr9DBKTI) --\>
 
+\<div class=“top”\>
 ### In this edition 👇
-
-\<!-- class(toc) --\>
 
 - AI—from a Bird's Eye
 	- AI IRL
@@ -26,6 +25,8 @@
 	- Large Language Models (LLMs)
 	- Transformers
 - Impact of AI
+
+\</div\>
 
 ---
 
