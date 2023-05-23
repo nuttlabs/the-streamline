@@ -2,7 +2,7 @@
 
 \<!-- youTube(gDJzr9DBKTI) --\>
 
-\<div class=“toc”\>
+\<!-- TOC --\> 
 ### In this edition 👇
 
 - AI—from a Bird's Eye
@@ -26,7 +26,7 @@
 	- Transformers
 - Impact of AI
 
-\</div\>
+\<!-- /TOC --\> 
 
 ---
 
