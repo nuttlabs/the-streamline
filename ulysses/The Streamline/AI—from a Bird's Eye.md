@@ -2,7 +2,7 @@
 
 \<!-- youTube(gDJzr9DBKTI) --\>
 
-\<div class=“top”\>
+\<div class=“toc”\>
 ### In this edition 👇
 
 - AI—from a Bird's Eye
