@@ -4,6 +4,8 @@ youTube(gDJzr9DBKTI)
 
 #### What You’ll Learn
 
+\<!— TOC —\>
+
 - AI—from a Bird's Eye
 	- AI IRL
 	- Inputs → Outputs (I/O)
