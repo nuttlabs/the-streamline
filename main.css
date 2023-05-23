@@ -62,7 +62,12 @@ hr {
  * ------------------------------------------ //
 */
 
-.w-richtext figure {
+audio {
+    display: block;
+}
+
+.w-richtext figure,
+audio {
     max-width: 100%;
     margin: 36px auto;
 }
