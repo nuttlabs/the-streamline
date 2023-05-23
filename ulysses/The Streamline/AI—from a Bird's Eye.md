@@ -2,7 +2,7 @@
 
 \<!-- youTube(gDJzr9DBKTI) --\>
 
-#### What You’ll Learn
+### In this edition 👇
 
 \<!-- class(toc) --\>
 
