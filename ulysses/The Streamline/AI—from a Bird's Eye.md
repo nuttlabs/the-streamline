@@ -2,7 +2,7 @@
 
 youTube(gDJzr9DBKTI)
 
-#### Snapshot
+#### What You’ll Learn
 
 - AI—from a Bird's Eye
 	- AI IRL
