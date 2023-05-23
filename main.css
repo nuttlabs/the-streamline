@@ -101,19 +101,29 @@ iframe {
  * ------------------------------------------ //
 */
 
-ul.toc,
-ul.toc ul {
-    list-style-type: none;
+.toc {
+    background: #f7f8fa;
+    border: 1px solid #dce1e9;
+    padding: 46px 46px 34px;
 }
 
-ul.toc li {
+.toc h4 {
+    margin-top: 0;
+}
+
+.toc ul {
+    list-style-type: none;
+    padding-left: 24px;
+}
+
+.toc li {
     position: relative;
-    line-height: 1;
+    line-height: 1.1;
     padding-left: 14px;
     font-weight: 400;
 }
 
-ul.toc li:before {
+.toc li:before {
     content: '';
     display: block;
     position: absolute;
@@ -122,16 +132,19 @@ ul.toc li:before {
     border-left: 2px solid;
 }
 
-ul.toc > li:before {
+.toc > ul {
+    margin: 24px 0 0 20px;
+}
+.toc > ul > li:before {
     border-color: #E52793;
 }
 
-ul.toc > li > ul > li:before {
+.toc > ul  > li > ul > li:before {
     border-color: #911DB0;
 }
 
-ul.toc > li > ul > li > ul > li:before {
-    border-color: #2cd7e3;
+.toc > ul > li > ul > li > ul > li:before {
+    border-color: #FCD263;
 }
 
 /*

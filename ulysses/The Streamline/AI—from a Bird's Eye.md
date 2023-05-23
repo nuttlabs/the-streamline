@@ -3,7 +3,7 @@
 \<!-- youTube(gDJzr9DBKTI) --\>
 
 \<!-- TOC --\> 
-#### In this edition 👇
+#### What you’ll learn 👇
 
 - AI—from a Bird's Eye
 	- AI IRL
@@ -27,8 +27,6 @@
 - Impact of AI
 
 \<!-- /TOC --\> 
-
----
 
 ## AI—from a Bird’s Eye
 Artificial intelligence (AI) is a discipline within computer science that broadly refers to the ability of computers to mimic human cognitive functions, especially reasoning, perception and learning. That empowers them to perform tasks commonly believed to require the human mind, such as interpreting and generating language and multimedia.
