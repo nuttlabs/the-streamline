@@ -1,4 +1,4 @@
-*Welcome to Part 1 of your AI Jumpstart. Let’s kick off the series with a high-level overview of artificial intelligence, including key concepts that will enhance your understanding ChatGPT, its contemporaries, and the revolution they’re spawning. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 💪
+*Welcome to Part 1 of your AI Jumpstart. Let’s kick off the series with a high-level overview of artificial intelligence, including key concepts that will enhance your understanding ChatGPT, its contemporaries, and the revolution they’re spawning. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social).* 💪
 
 ---
 
