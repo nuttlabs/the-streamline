@@ -4,7 +4,7 @@ youTube(gDJzr9DBKTI)
 
 #### What You’ll Learn
 
-\<!— TOC —\>
+\<!— class(toc) —\>
 
 - AI—from a Bird's Eye
 	- AI IRL
