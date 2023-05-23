@@ -3,7 +3,7 @@
 \<!-- youTube(gDJzr9DBKTI) --\>
 
 \<!-- TOC --\> 
-### In this edition 👇
+#### In this edition 👇
 
 - AI—from a Bird's Eye
 	- AI IRL
