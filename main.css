@@ -124,6 +124,7 @@ iframe {
     background: #f7f8fa;
     border: 1px solid #dce1e9;
     padding: 46px 46px 34px;
+    margin-bottom: 60px
 }
 
 .toc h4 {
@@ -137,7 +138,8 @@ iframe {
 
 .toc li {
     position: relative;
-    line-height: 1.1;
+    line-height: 1.3;
+    margin-bottom: 6px;
     padding-left: 14px;
     font-weight: 400;
 }
@@ -147,6 +149,7 @@ iframe {
     display: block;
     position: absolute;
     left: 0;
+    top: 3px;
     height: 1em;
     border-left: 2px solid;
 }
@@ -165,6 +168,23 @@ iframe {
 
 .toc > ul > li > ul > li > ul > li:before {
     border-color: var(--color--cyan);
+}
+
+@media screen and (max-width: 767px) {
+
+    .toc {
+        padding: 32px 30px;
+    }
+
+    .toc ul {
+        padding-left: 14px;
+    }
+
+    .toc > ul {
+        margin-top: 14px;
+        margin-left: 0;
+    }
+    
 }
 
 /*
