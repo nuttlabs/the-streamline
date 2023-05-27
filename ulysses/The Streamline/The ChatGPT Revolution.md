@@ -169,7 +169,7 @@ With ChatGPT, OpenAI expanded its API to allow third-party apps to prompt the ch
 
 [Slack’s ChatGPT integration](https://slack.com/blog/news/introducing-slack-gpt) uses the expanded API. So does [ChatPDF](https://www.chatpdf.com/).
 
-![](https://assets.thestreamline.ai/insgihts/the-chatgpt-revolution/slack-chatgpt.gif)
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/slack-chatgpt.gif)
 
 ChatGPT also inspired a flurry of new GPT integrations (the models, not the chatbot). Chatbots from [Expedia](https://www.expediagroup.com/investors/news-and-events/financial-releases/news/news-details/2023/Chatgpt-Wrote-This-Press-Release--No-It-Didnt-But-It-Can-Now-Assist-With-Travel-Planning-In-The-Expedia-App/default.aspx) and [Duolingo](https://blog.duolingo.com/duolingo-max/) debuted shortly after ChatGPT.
 
