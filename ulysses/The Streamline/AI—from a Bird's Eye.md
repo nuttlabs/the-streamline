@@ -156,4 +156,4 @@ As we unpack AI, we’ll explore the opportunities, the threats, and actionable 
 
 **Upcoming:** _Google and Microsoft Reborn_. [Subscribe to _The Streamline_](https://www.thestreamline.ai) to get the full _AI Jumpstart_ series by email—and make the most of AI, automation and productivity systems.
 
-*If this was helpful, please share it with a friend. And feel free to shoot me any questions on [YouTube](https://youtube.com/williamnutt)(), [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
+*If this was helpful, please share it with a friend. And feel free to shoot me any questions on [YouTube](https://youtube.com/williamnutt), [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
