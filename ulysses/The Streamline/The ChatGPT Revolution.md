@@ -96,7 +96,7 @@ Here are some internet-independent prompts I use daily. (Replace `{}` with your 
 You're an expert on {topic}. I'm in 10th grade. Explain {topic}, 500-word maximum
 ```
 
-![](https://assets.thestreamline.ai/insights/the-streamline_chatgpt-sample-prompt_teach.jpg)
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/chatgpt-sample-prompt_teach.jpg)
 
 #### Summarize this content.
 ```
@@ -106,6 +106,8 @@ Sumarize [article] in a bullet list, 100-word maximum
 
 {pasted article}
 ```
+
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/chatgpt-sample-prompt_summarize-article.jpg)
 
 #### Draft an article.
 ```
@@ -118,10 +120,14 @@ You're a blogger about {topic}. Your audience is {audience}. Write a 1000-word b
 - {Subtopic 5}
 ```
 
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/chatgpt-sample-prompt_draft-blog-post.jpg)
+
 #### List synonyms.
 ```
 List 50 synonyms of {word}.
 ```
+
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/chatgpt-sample-prompt_list-synonyms.jpg)
 
 ## Explosive Growth
 
