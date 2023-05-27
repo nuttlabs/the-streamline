@@ -89,7 +89,9 @@ With any prompt, you can supply content for ChatGPT to use or reference, such as
 - **Output format**, such as a table or bullet list.
 
 ### Example Prompts
-Here are some internet-independent prompts I use daily. (Replace `{}` with your own inputs. Use `[]` as they’re written; they’re variables within your prompts that you define afterward.
+I use variations of the below prompts every day.
+- Replace `{}` with your own inputs. 
+- Use `[]` as they’re written. They’re variables that you define for ChatGPT below the core prompt.
 
 #### Teach me like I’m in high school.
 ```
@@ -131,6 +133,51 @@ List 50 synonyms of {word}.
 
 ## Explosive Growth
 
-Proponents and skeptics alike describe a sense of magic when using ChatGPT for the first time. Its novelty is undeniable. Its natural conversation, grammatical soundness and conviction are uncanny. In one robotic exchange, the shred of captivation still held by Alexa and Siri vanishes into history. It’s not until you hone in on factual inaccuracies does ChatGPT’s mystique begin to fade.
+Proponents and skeptics alike describe a sense of magic when using ChatGPT for the first time. Its novelty is undeniable. Its natural conversation, grammatical soundness and conviction are uncanny. It’s not until you hone in on factual inaccuracies does ChatGPT’s mystique begin to fade.
 
 Thanks to its sensational first impression, ChatGPT spread like wildfire across news and social media. In just two months, it reached 100 million active users—a stunning contrast with TikTok (9 months) and Instagram (2.5 years), among other behemoths.
+
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/the-streamline_chatgpt-growth.png)
+
+## ChatGPT Plugins
+
+The expiration of ChatGPT’s knowledge at September 2021 was a conspicuous limitation through its first few months. But in March 2023, OpenAI [announced ChatGPT plugins](https://openai.com/blog/chatgpt-plugins). Like the extensions available for your web browser, plugins extend the functionality of ChatGPT, typically by connecting it with other services. 
+
+- OpenTable’s plugin, for example, allows ChatGPT to make up-to-date restaurant recommendations.
+- The Kayak plugin provides live pricing for flights, hotels and more.
+- You can request real estate listings with the Zillow plugin.
+
+Hundreds of plugins now give ChatGPT access to real-time information from other apps, and the library is growing quickly as OpenAI expands access to developers.
+
+### Browse with Bing
+The most notable plugin comes from OpenAI itself rather than a third-party developer. Originally referred to generically as a “web browser,” it allows ChatGPT to reference the live web.
+
+At its Build conference in May 2023, Microsoft announced that Bing would become ChatGPT’s default search engine. The plugin was subsequently renamed “Search with Bing.”
+
+### Install and Enable Plugins
+As of the early summer of 2023, plugins are available only through the ChatGPT web app. I hope they’re accessible on the mobile apps by the time your read this.
+
+Search with Bing is rolling out to all users, but third-party plugins require a ChatGPT Plus subscription. After toggling to the GPT-4 model, those users will see the option to install and selectively enable plugins.
+
+ChatGPTs access to the internet and other apps are increasingly essential to its use. I’ll dive deep into plugins as _The Streamline_ evolves.
+
+## ChatGPT in Other Apps
+
+Before ChatGPT, developers could build apps that interact with GPT models using OpenAI’s API.
+
+With ChatGPT, OpenAI expanded its API to allow third-party apps to prompt the chatbot. Every day, new apps are leveraging the capabilities of ChatGPT in innovative ways. They typically pair ChatGPT with other technologies and sources of knowledge to expand its capabilities and provide novel solutions to specific needs.
+
+[Slack’s ChatGPT integration](https://slack.com/blog/news/introducing-slack-gpt) uses the expanded API. So does [ChatPDF](https://www.chatpdf.com/).
+
+![](https://assets.thestreamline.ai/insgihts/the-chatgpt-revolution/slack-chatgpt.gif)
+
+ChatGPT also inspired a flurry of new GPT integrations (the models, not the chatbot). Chatbots from [Expedia](https://www.expediagroup.com/investors/news-and-events/financial-releases/news/news-details/2023/Chatgpt-Wrote-This-Press-Release--No-It-Didnt-But-It-Can-Now-Assist-With-Travel-Planning-In-The-Expedia-App/default.aspx) and [Duolingo](https://blog.duolingo.com/duolingo-max/) debuted shortly after ChatGPT.
+
+Apps built on or inspired by ChatGPT are as important to today’s AI boom as ChatGPT itself. We’ll explore them continuously.
+
+---
+
+**Upcoming:** _Google and Microsoft Reborn_. [Subscribe to _The Streamline_](https://www.thestreamline.ai) to get the full _AI Jumpstart_ series by email—and make the most of AI, automation and productivity systems.
+
+*If this was helpful, please share it with a friend. And feel free to shoot me any questions on [YouTube](https://youtube.com/williamnutt)(), [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
+
