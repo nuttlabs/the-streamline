@@ -55,3 +55,76 @@ You can access ChatGPT in two ways:
 You’ll need an OpenAI account, which you can create for free with an email address or by linking an existing account with Apple, Google or Microsoft.
 
 You’ll find the chat interface intuitive, with clear options for entering prompts and creating new chats. Try one of my favorite prompts: `Explain [topic] to a high school student in 500 words`.
+
+![](https://assets.thestreamline.ai/insights/the-chatgpt-revolution/the-streamline_chatgpt-demo.gif)
+
+Methodical prompting is essential to AI and will remain a core focus of *The Streamline*.
+
+## Experimental Prompts
+
+### Objectives
+We’ll dive much deeper into ChatGPT’s immediate and long-term applications, as well as methodical “prompt engineering.” For your introduction and experimentation, here’s a quick list of ChatGPT’s core competencies:
+
+- Explain a given topic
+- Outline or draft:
+	- Blog posts or essays
+	- Social media posts
+	- Presentations, sales pitches, taglines, etc.
+- Brainstorm names, ideas or themes from a topic or outline
+- Given a word, list synonyms, antonyms, rhyming words, et al.
+- Predict the outcome for a hypothetical scenario
+- Generate a strategy, or detailed instructions, for accomplishing a given objective
+- Analyze an existing strategy, such as a business model
+- Plan a meal from given ingredients or dietary requirements
+- Translate one language to another
+- Compose or correct computer code
+
+### Parameters
+With any prompt, you can supply content for ChatGPT to use or reference, such as the content to summarize. You can also specify: 
+
+- **Length**, such as “500 words”
+- **Tone**, like “in the style of Hemingway”
+- **Target audience**, like “a ten-year-old”
+- **Role of the chatbot**, such as an interviewer for a specified role or a specialized therapist
+- **Output format**, such as a table or bullet list.
+
+### Example Prompts
+Here are some internet-independent prompts I use daily. (Replace `{}` with your own inputs. Use `[]` as they’re written; they’re variables within your prompts that you define afterward.
+
+#### Teach me like I’m in high school.
+```
+You're an expert on {topic}. I'm in 10th grade. Explain {topic}, 500-word maximum
+```
+
+![](https://assets.thestreamline.ai/insights/the-streamline_chatgpt-sample-prompt_teach.jpg)
+
+#### Summarize this content.
+```
+Sumarize [article] in a bullet list, 100-word maximum
+
+[article]:
+
+{pasted article}
+```
+
+#### Draft an article.
+```
+You're a blogger about {topic}. Your audience is {audience}. Write a 1000-word blog post about {topic}. Include these topics:
+
+- {Subtopic 1}
+- {Subtopic 2}
+- {Subtopic 3}
+- {Subtopic 4}
+- {Subtopic 5}
+```
+
+#### List synonyms.
+```
+List 50 synonyms of {word}.
+```
+
+## Explosive Growth
+
+Proponents and skeptics alike describe a sense of magic when using ChatGPT for the first time. Its novelty is undeniable. Its natural conversation, grammatical soundness and conviction are uncanny. In one robotic exchange, the shred of captivation still held by Alexa and Siri vanishes into history. It’s not until you hone in on factual inaccuracies does ChatGPT’s mystique begin to fade.
+
+Thanks to its sensational first impression, ChatGPT spread like wildfire across news and social media. In just two months, it reached 100 million active users—a stunning contrast with TikTok (9 months) and Instagram (2.5 years), among other behemoths.
