@@ -42,7 +42,7 @@ Initially, GPTs were accessible only via OpenAI’s **API**. An API (application
 
 In the case of GPTs, third-party apps can communicate with, and fine-tune, the LLMs. That allows developers to create interfaces for the models, or visual mediums for interacting with them, with specialized knowledge. When you see variations of “powered by GPT technology,” it’s accomplished using the OpenAI API.
 
-One notable example is [Jasper]()(https://www.jasper.ai/), which generates copywriting for brands.
+One notable example is [Jasper](https://www.jasper.ai/), which generates copywriting for brands.
 
 ## Enter ChatGPT
 The November 2022 release of ChatGPT gave everyday users a more direct connection to GPTs. Rather than accessing concentrated derivatives of the models through third-party apps, they could go straight to a general-purpose chatbot from OpenAI. That vastly expanded access to GPTs while creating a whole new form of pleasure.
