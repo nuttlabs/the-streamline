@@ -103,7 +103,7 @@ With any prompt, you can supply content for ChatGPT to use or reference, such as
 These sorts of prompting strategies are known as “prompt engineering,” which I’ll cover continually.
 
 ### Sample Prompts
-I use variations of the below prompts every day.
+I use variations of the below prompts every day. Watch [the video](https://youtu.be/798WCrQQEG4) to see them in action.
 - Replace `{}` with your own inputs. 
 - Use `[]` as they’re written. They’re variables that you define for ChatGPT below the core prompt.
 
