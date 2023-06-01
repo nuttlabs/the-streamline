@@ -1,6 +1,6 @@
 *Part 2 of your AI Jumpstart is an essential introduction to ChatGPT, including important context for its revolutionary debut and a pivotal primer for maximizing the tool. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 🦾
 
-\<!-- youTube(zF8ELog6tog) --\>
+\<!-- youTube(798WCrQQEG4) --\>
 
 The release of ChatGPT in November 2022 ignited a revolution in AI. Not only did it offer unrivaled *capability*; it was also profoundly *accessible* and *usable*. As a free, web-based, conversational chatbot, ChatGDP placed an unimaginably powerful technology in the hands of everyday people. And it was—and remains—a mere preview of the disruptive force it, and the applications it inspires, will become.
 
@@ -8,6 +8,18 @@ The release of ChatGPT in November 2022 ignited a revolution in AI. Not only did
 ### How we’ll unpack ChatGPT 👇
 
 - OpenAI: The Company
+	- Generative Pre-Trained Transformers (GPTs)
+	- GPTs via API
+- Enter ChatGPT
+	- ChatGPT Snapshot
+	- Access ChatGPT
+- Experimental Prompts
+	- Prompt Objectives
+	- Prompt Engineering
+	- My Daily Prompts
+- Explosive Growth
+- ChatGPT Plugins
+- ChatGPT in Other Apps
 
 \<!-- /TOC --\> 
 
@@ -79,7 +91,7 @@ We’ll dive much deeper into ChatGPT’s immediate and long-term applications, 
 - Translate one language to another
 - Compose or correct computer code
 
-### Parameters
+### Prompt Engineering
 With any prompt, you can supply content for ChatGPT to use or reference, such as the content to summarize. You can also specify: 
 
 - **Length**, such as “500 words”
@@ -87,6 +99,8 @@ With any prompt, you can supply content for ChatGPT to use or reference, such as
 - **Target audience**, like “a ten-year-old”
 - **Role of the chatbot**, such as an interviewer for a specified role or a specialized therapist
 - **Output format**, such as a table or bullet list.
+
+These sorts of prompting strategies are known as “prompt engineering.”
 
 ### Sample Prompts
 I use variations of the below prompts every day.
@@ -179,5 +193,5 @@ Apps built on or inspired by ChatGPT are as important to today’s AI boom as Ch
 
 **Upcoming:** _Google and Microsoft Reborn_. [Subscribe to _The Streamline_](https://www.thestreamline.ai) to get the full _AI Jumpstart_ series by email—and make the most of AI, automation and productivity systems.
 
-*If this was helpful, please share it with a friend. And feel free to shoot me any questions on [YouTube](https://youtube.com/williamnutt), [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
+*If this was helpful, pass it along. And feel free to shoot me any questions on [YouTube](https://youtube.com/williamnutt), [Twitter](https://twitter.com/williamnutt) or [Bluesky](https://bsky.app/profile/wnutt.bsky.social).*
 
