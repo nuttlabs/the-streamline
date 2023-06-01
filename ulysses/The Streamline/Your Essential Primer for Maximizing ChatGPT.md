@@ -1,4 +1,4 @@
-*Welcome to Part 2 of your AI Jumpstart. In this edition, we’ll discuss the revolutionary debut of ChatGPT, what it is, and the basics of using it. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 🦾
+*Part 2 of your AI Jumpstart is an essential introduction to ChatGPT, including important context for its revolutionary debut and a pivotal primer for maximizing the tool. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 🦾
 
 \<!-- youTube(zF8ELog6tog) --\>
 
@@ -88,7 +88,7 @@ With any prompt, you can supply content for ChatGPT to use or reference, such as
 - **Role of the chatbot**, such as an interviewer for a specified role or a specialized therapist
 - **Output format**, such as a table or bullet list.
 
-### Example Prompts
+### Sample Prompts
 I use variations of the below prompts every day.
 - Replace `{}` with your own inputs. 
 - Use `[]` as they’re written. They’re variables that you define for ChatGPT below the core prompt.
