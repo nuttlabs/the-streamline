@@ -100,7 +100,7 @@ With any prompt, you can supply content for ChatGPT to use or reference, such as
 - **Role of the chatbot**, such as an interviewer for a specified role or a specialized therapist
 - **Output format**, such as a table or bullet list.
 
-These sorts of prompting strategies are known as “prompt engineering.”
+These sorts of prompting strategies are known as “prompt engineering,” which I’ll cover continually.
 
 ### Sample Prompts
 I use variations of the below prompts every day.
