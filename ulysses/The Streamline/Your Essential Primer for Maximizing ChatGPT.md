@@ -17,7 +17,7 @@ The release of ChatGPT in November 2022 ignited a revolution in AI. Not only did
 - Experimental Prompts
 	- Prompt Objectives
 	- Prompt Engineering
-	- My Daily Prompts
+	- Daily Prompts
 - Explosive Growth
 - ChatGPT Plugins
 - ChatGPT in Other Apps
