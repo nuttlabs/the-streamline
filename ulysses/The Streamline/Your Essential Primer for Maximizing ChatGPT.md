@@ -1,3 +1,4 @@
+
 *Part 2 of your AI Jumpstart is an essential introduction to ChatGPT, including important context for its revolutionary debut and a pivotal primer for maximizing the tool. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 🦾
 
 \<!-- youTube(798WCrQQEG4) --\>
@@ -5,7 +6,7 @@
 The release of ChatGPT in November 2022 ignited a revolution in AI. Not only did it offer unrivaled *capability*; it was also profoundly *accessible* and *usable*. As a free, web-based, conversational chatbot, ChatGDP placed an unimaginably powerful technology in the hands of everyday people. And it was—and remains—a mere preview of the disruptive force it, and the applications it inspires, will become.
 
 \<!-- TOC --\> 
-### How we’ll unpack ChatGPT 👇
+#### How we’ll unpack ChatGPT 👇
 
 - OpenAI: The Company
 	- Generative Pre-Trained Transformers (GPTs)
