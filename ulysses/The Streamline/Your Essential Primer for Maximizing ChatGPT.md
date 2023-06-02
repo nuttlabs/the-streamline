@@ -1,5 +1,5 @@
 
-*Part 2 of your AI Jumpstart is an essential introduction to ChatGPT, including important context for its revolutionary debut and a pivotal primer for maximizing the tool. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social). 🦾
+*Part 2 of your AI Jumpstart is an essential introduction to ChatGPT, including important context for its revolutionary debut and a pivotal primer for maximizing the tool. If you haven't yet subscribed to The Streamline, [hop aboard](https://thestreamline.ai), then find me on [Twitter](https://twitter.com/williamnutt), [YouTube](https://youtube.com/williamnutt), [LinkedIn](https://linkedin.com/in/williamnutt) and [Bluesky](https://bsky.app/profile/wnutt.bsky.social).* 🦾
 
 \<!-- youTube(798WCrQQEG4) --\>
 
