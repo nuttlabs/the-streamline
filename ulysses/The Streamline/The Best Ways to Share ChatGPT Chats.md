@@ -1,5 +1,5 @@
 
-In many circumstances, you’ll find it helpful to share your conversations with ChatGPT as you collaborate with team members or create content. I’m going to share the best two ways to do that. One is native to ChatGPT; the other is an extension for Google Chrome.
+In many circumstances, you’ll find it helpful to share your conversations with ChatGPT as you collaborate with team members or create content. I’m going to share the best two ways to do that. One is native to ChatGPT; the other is an extension for web browsers.
 
 \<!-- youTube(N_kkgmI2U3E) --\>
 
