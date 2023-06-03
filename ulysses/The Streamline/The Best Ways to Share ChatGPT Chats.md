@@ -1,7 +1,7 @@
 
 In many circumstances, you’ll find it helpful to share your conversations with ChatGPT as you collaborate with team members or create content. I’m going to share the best two ways to do that. One is native to ChatGPT; the other is an extension for Google Chrome.
 
-\<!-- youTube(zF8ELog6tog) --\>
+\<!-- youTube(N_kkgmI2U3E) --\>
 
 ## ChatGPT Shared Links
 When a conversation is selected in the sidebar, you’ll see a share icon. Clicking it brings up a module where you can copy a public link to the chat.
@@ -23,7 +23,7 @@ To delete the public link, click the share icon to reopen the module and choose 
 
 ## Awesome Screenshot
 
-The other sharing method captures a screenshot of the chat through a Chrome extension called Awesome Screenshot. I already used Awesome Screenshot often for full-page page screenshots and recordings, and with ChatGPT, it becomes even more useful by adding a “Screenshot” button above the prompt box that looks native to ChatGPT.
+The other sharing method captures a screenshot of the chat through a Chrome extension called [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-chatgpt-screensho/nlipoenfbbikpbjkfpfillcgkoblgpmj). I already used Awesome Screenshot often for full-page page screenshots and recordings, and with ChatGPT, it becomes even more useful by adding a “Screenshot” button above the prompt box that looks native to ChatGPT.
 
 ![](https://assets.thestreamline.ai/insights/share-chatgpt-chats/chatgpt_awesome-screenshot.png)
 
