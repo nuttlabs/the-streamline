@@ -12,7 +12,7 @@ But in a major development this week, subscribers to the $20/mo. ChatGPT Plus ca
 
 Try asking it to summarize an article: `Summarize this: [URL]`
 
-If you find the option unavailable under **Settings**, try deleting the app and reinstalling it. That will force an update.
+If you find the option unavailable under **Settings**, try deleting the app and reinstalling it.
 
 And be sure to subscribe to _[The Streamline](https://thestreamline.ai)_ to make the most of AI and automation.
 
