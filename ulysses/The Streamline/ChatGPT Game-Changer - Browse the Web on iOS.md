@@ -14,6 +14,6 @@ Try asking it to summarize an article: `Summarize this: [URL]`
 
 If you find the option unavailable under **Settings**, try deleting the app and reinstalling it.
 
-And be sure to subscribe to _The Streamline_ at thestreamline.ai to make the most of AI and automation.
+And be sure to subscribe to _[The Streamline](https://thestreamline.ai)_ to make the most of AI and automation.
 
 
