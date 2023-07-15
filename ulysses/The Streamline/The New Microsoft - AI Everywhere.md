@@ -88,6 +88,8 @@ In addition to the web version of Designer at designer.microsoft.com, you can ad
 
 ### Photo Generator
 
+![](https://assets.notion.vip/insights/new-microsoft/microsoft-designer.png)
+
 Designer also includes a photo generator powered by OpenAI’s DALL·E model. You can generate a photo, then use it in your design.
 
-I cover prompt engineering for photo generators extensively in other resources. For those guides and other insights for maximizing AI, subscribe to ********[The Streamline]()(https://thestreamline.ai)******** and follow me on [YouTube]()(https://youtube.com/williamnutt), [Twitter]()(https://twitter.com/williamnutt) and Threads.
+I cover prompt engineering for photo generators extensively in other resources. For those guides and other insights for maximizing AI, subscribe to _[The Streamline](https://thestreamline.ai)_ and follow me on [YouTube](https://youtube.com/williamnutt) and [Twitter](https://twitter.com/williamnutt).
