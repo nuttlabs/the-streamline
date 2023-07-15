@@ -15,35 +15,35 @@ As a part of Microsoft’s close relationship with OpenAI, Bing’s conversation
 
 In addition to accessing real-time information, Bing could return rich media, including photos, videos and charts. It also offered an interface for structuring your prompts, with visual inputs for specifying the tone, format and length of the generated response.
 
-![Untitled]()(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9bd6f78-8edc-41ca-8ab8-84c860df371b/Untitled.png)
+![](https://assets.thestreamline.ai/insights/new-microsoft/bing-chat-interface.png)
 
 ### Access the New Bing
 
-From a computer, access the new Bing from Microsoft’s [Edge web browser]()(https://www.microsoft.com/en-us/edge/download). On mobile devices, download the Bing app for [iOS]()(https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) or [Android]()(https://play.google.com/store/apps/details). Sign in with your Microsoft account (create one if necessary), then look for the chat icon:
+From a computer, access the new Bing from Microsoft’s [Edge web browser](https://www.microsoft.com/en-us/edge/download). On mobile devices, download the Bing app for [iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) or [Android](https://play.google.com/store/apps/details). Sign in with your Microsoft account (create one if necessary), then look for the chat icon:
 
-![Untitled]()(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9747cfb-ef36-445c-9ea5-8a498b792e21/Untitled.png)
+![](https://assets.thestreamline.ai/insights/new-microsoft/bing-chat-icon.png)
 
 ### Starter Prompts
 
 - Serve it the same prompts you provided ChatGPT earlier in this series. Compare their responses.
 - Try others that utilize Bing’s connection to the internet, such as summarizing today’s news for a category, or analyzing the sentiment of a story.
-- Ask it about yourself: ***************”Who is [Full Name]()”?***************
+- Ask it about yourself: _"Who is [Full Name]()”?_
 
-![Bing’s response to ****“Who is William Nutt?”****]()(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4eca34c4-2eea-4c2d-87de-a1d63ad99d68/Untitled.png)
-
-Bing’s response to ****“Who is William Nutt?”****
+![](https://assets.thestreamline.ai/insights/new-microsoft/bing-who-is-william-nutt.png)
 
 ## Copilot On-Demand
 
-Shortly following Bing’s relaunch, Microsoft [teased Copilot]()(https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/), an AI assistant that would become ubiquitous throughout Microsoft’s ecosystem of products. Copilot would make its way to:
+Shortly following Bing’s relaunch, Microsoft [teased Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/), an AI assistant that would become ubiquitous throughout Microsoft’s ecosystem of products. 
+
+\<!-- youTube(S7xTBa93TX8) --\>
+
+Copilot would make its way to:
 
 - the 365 apps used by virtually every business, including Excel, Word, Outlook and OneNote;
 - the Windows operating system;
 - Github, Azure and other apps for designers, developers and IT specialists;
 - the Teams collaboration platform; and
 - the Edge web browser, where Bing’s AI chatbot would ultimately assume the Copilot identity.
-
-https://www.youtube.com/watch?v=S7xTBa93TX8
 
 Wherever it’s summoned, among a multitude of capabilities, Copilot would be able to:
 
@@ -60,11 +60,13 @@ And all along, Copilot would have access to your calendar, contacts, documents a
 
 When Microsoft announced Copilot in March, it was in testing with a small selection of enterprise 365 users.
 
-In June, that testing pool expanded to about 600 customers, and analysts anticipated a few more months of testing before Copilot’s public beta. If it remains unavailable when you read this guide, I’ll notify *[The Streamline]()(https://thestreamline.ai)* subscribers as soon as it opens.
+In June, that testing pool expanded to about 600 customers, and analysts anticipated a few more months of testing before Copilot’s public beta. If it remains unavailable when you read this guide, I’ll notify _[The Streamline](https://thestreamline.ai)_ subscribers as soon as it opens.
 
 ## Designer
 
-[Microsoft Designer]()(https://designer.microsoft.com) is a standalone AI-powered application that generates graphics from a text prompt for social media posts, digital invitations, thumbnails, and other needs for combining text and images.
+![](https://assets.notion.vip/insights/new-microsoft/microsoft-designer.png)
+
+[Microsoft Designer](https://designer.microsoft.com) is a standalone AI-powered application that generates graphics from a text prompt for social media posts, digital invitations, thumbnails, and other needs for combining text and images.
 
 Honestly, I’m underwhelmed by its outputs, but they can serve as a helpful foundation for images you finalize with heavy editing.
 
