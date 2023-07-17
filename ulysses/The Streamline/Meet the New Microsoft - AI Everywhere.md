@@ -1,7 +1,7 @@
 
 _In this edition of [The Streamline](https://thestreamline.ai)’s “AI Jumpstart” series, we explore how Microsoft bet the farm on AI and infused the technology throughout its ecosystem of applications. If you’ve yet to subscribe, [hop aboard](https://precap.ai), then find me on [YouTube](https://youtube.com/williamnutt), [Twitter](https://twitter.com/williamnutt) and [LinkedIn](https://linkedin.com/in/williamnutt)._
 
----
+\<!-- youTube(OqGbsToPcKs) --\>
 
 ## Microsoft’s Big Bet
 
