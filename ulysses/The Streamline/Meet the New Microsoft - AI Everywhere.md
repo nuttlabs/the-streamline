@@ -9,7 +9,7 @@ Way back in 2019, when Microsoft invested $1 billion in OpenAI, we knew it was b
 
 ## The New Bing
 
-For everyday users, Microsoft’s AI first appeared in February 2023 with the [relaunch of Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/), the comically unpopular alternative to Google Search. The new Bing began a shift from traditional search engines that listed relevant websites to conversational chatbots, like ChatGPT with access to the Web. _(At the time, ChatGPT relied on its training data, which concluded at September 2021.)_
+For everyday users, Microsoft’s AI first appeared in February 2023 with the [relaunch of Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/), the comically unpopular alternative to Google Search. The new Bing began a shift from traditional search engines that listed relevant websites to conversational chatbots, like ChatGPT with access to the Web. _(At the time, ChatGPT relied on its training data, which ended at September 2021.)_
 
 As a part of Microsoft’s close relationship with OpenAI, Bing’s conversational AI is powered in part by GPT models, as well as Microsoft’s proprietary [Prometheus model](https://www.microsoft.com/en-us/research/project/prometheus-microsoft-research/).
 
