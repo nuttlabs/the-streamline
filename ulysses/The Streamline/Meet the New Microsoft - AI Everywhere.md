@@ -64,7 +64,7 @@ In June, that testing pool expanded to about 600 customers, and analysts anticip
 
 ## Designer
 
-![](https://assets.notion.vip/insights/new-microsoft/microsoft-designer.png)
+![](https://assets.thestreamline.ai/insights/new-microsoft/microsoft-designer.png)
 
 [Microsoft Designer](https://designer.microsoft.com) is a standalone AI-powered application that generates graphics from a text prompt for social media posts, digital invitations, thumbnails, and other needs for combining text and images.
 
@@ -87,8 +87,6 @@ Designer generates a handful of variations, from which you can choose one to cus
 In addition to the web version of Designer at designer.microsoft.com, you can add it to the Edge web browser for quick access alongside the chatbot.
 
 ### Photo Generator
-
-![](https://assets.notion.vip/insights/new-microsoft/microsoft-designer.png)
 
 Designer also includes a photo generator powered by OpenAI’s DALL·E model. You can generate a photo, then use it in your design.
 
