@@ -60,7 +60,7 @@ And all along, Copilot would have access to your calendar, contacts, documents a
 
 When Microsoft announced Copilot in March, it was in testing with a small selection of enterprise 365 users.
 
-In June, that testing pool expanded to about 600 customers, and analysts anticipated a few more months of testing before Copilot’s public beta. If it remains unavailable when you read this guide, I’ll notify _[The Streamline](https://thestreamline.ai)_ subscribers as soon as it opens.
+In June, that testing pool expanded to about 600 customers, and shortly afterward, Microsoft announced that Copilot would cost $30 per user.
 
 ## Designer
 
