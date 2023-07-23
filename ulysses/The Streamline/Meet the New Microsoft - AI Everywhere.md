@@ -60,7 +60,7 @@ And all along, Copilot would have access to your calendar, contacts, documents a
 
 When Microsoft announced Copilot in March, it was in testing with a small selection of enterprise 365 users.
 
-In June, that testing pool expanded to about 600 customers, and shortly afterward, Microsoft announced that Copilot would cost $30 per user.
+In June, that testing pool expanded to about 600 customers. Shortly thereafter, Microsoft [announced](https://www.thestreamline.ai/insight/ai-news-to-know-week-of-july-17-2023) that Copilot would cost $30 per user but offered no indication as to when it would be available to all customers.
 
 ## Designer
 
