@@ -29,4 +29,4 @@ For those needing a refresher on how the World Cup Works, including its various 
 
 And the satisfying results:
 
-![](https://assets.thestreamline.ai/insights/world-cup/world-cup-chatgpt.png)
+![](https://assets.thestreamline.ai/insights/world-cup/world-cup_chatgpt.png)
