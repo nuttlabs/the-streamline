@@ -15,7 +15,11 @@ You're a sports journalist. Create a table. Each row is a player of the U.S. Wom
 - "More info": A link to a bio page for the player
 ```
   
-I was quite pleased with the results. And of course, the same prompt could be used to learn about any team playing in the World Cup.
+I was quite pleased with the results:
+
+![](https://assets.thestreamline.ai/insights/world-cup/world-cup-bard-result.gif)
+
+And of course, the same prompt could be used to learn about any team playing in the World Cup.
 
 For those needing a refresher on how the World Cup Works, including its various stages, ChatGPT is a great option since the content isn’t recent. Here’s an effective prompt:
 
@@ -23,4 +27,6 @@ For those needing a refresher on how the World Cup Works, including its various 
 “You're a sports journalist. Explain how the world cup works. Include each stage. 50-word limit. Your audience is a teenager.”
 ```
 
+And the satisfying results:
 
+![](https://assets.thestreamline.ai/insights/world-cup/world-cup-chatgpt.png)
