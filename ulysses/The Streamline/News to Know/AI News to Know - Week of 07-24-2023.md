@@ -1,5 +1,5 @@
 
-**TGIF.** Here are the AI stories you need to know from this week, curated with care by yours truly. You’ll also enjoy [how I used conversational AIs to get up to speed on the World Cup](https://www.thestreamline.ai/insight/use-ai-to-learn-about-the-world-cup). 🦾
+**TGIF.** Here are the AI stories you need to know from this week, curated with care by [yours truly.](https://twitter.com/williamnutt) You’ll also enjoy [how I used conversational AIs to get up to speed on the World Cup](https://www.thestreamline.ai/insight/use-ai-to-learn-about-the-world-cup). 🦾
 
 \<!-- youTube(eQiapTPE3Jc) --\>
 
