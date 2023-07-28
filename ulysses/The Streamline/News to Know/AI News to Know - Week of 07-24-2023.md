@@ -4,7 +4,7 @@
 \<!-- youTube(eQiapTPE3Jc) --\>
 
 ### Major AI companies launched the Frontier Model Forum.
-- Anthropic, Google, Microsoft, and OpenAI formed the [Frontier Model Forum](https://www.axios.com/2023/07/26/ai-frontier-model-forum-established) to promote the safe and responsible development of AI models.
+- Anthropic, Google, Microsoft and OpenAI formed the [Frontier Model Forum](https://www.axios.com/2023/07/26/ai-frontier-model-forum-established) to promote the safe and responsible development of AI models.
 - The industry body will advance AI safety research, identify best practices, and collaborate with policymakers and academia to mitigate risks and address major societal issues.
 
 ### Access ChatGPT and Bing Chat in new places.
