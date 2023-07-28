@@ -8,7 +8,7 @@
 - The industry body will advance AI safety research, identify best practices, and collaborate with policymakers and academia to mitigate risks and address major societal issues.
 
 ### Access ChatGPT and Bing Chat in new places.
-- Two months after its iOS app, ChatGPT’s official [Android app](https://play.google.com/store/apps/details) is now available to green bubblers.
+- Two months after its iOS app, ChatGPT’s official [Android app](https://play.google.com/store/apps/details) is now available to green-bubblers.
 - Meanwhile, select users are testing Microsoft’s [Bing Chat](https://www.thestreamline.ai/insight/meet-the-new-microsoft-ai-everywhere) on Chrome and Safari, in preparation for a full rollout to all users. Previously, the conversational AI was available on the Edge browser exclusively.
 
 ### Stability AI’s new image generator rivals the best.
