@@ -28,5 +28,5 @@ OpenAI [applied to trademark GPT-5](https://futurism.com/the-byte/openai-tradema
 ### Google is empowering Assistant and physical robots with new AI models.
 
 - As an everyday user of voice assistants, I’m discouraged by their lack of progress and thrilled that Google is [reinvigorating Assistant](https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/) with new generative AI.
-- With the changes, Google is restructuring the Assistant team, which indicates a commitment to a better direction.
+- With the changes, Google is restructuring the Assistant team, which indicates a commitment to a better direction for the product.
 - Meanwhile, Google also [announced a new model](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai) called Robotic Transformer, or RT-2, which will strengthen the intelligence of physical robots, including their ability to interpret instructions and make decisions.
