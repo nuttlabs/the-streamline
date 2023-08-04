@@ -5,6 +5,7 @@
 
 ### ChatGPT is rolling out multiple new features.
 [The features](https://twitter.com/openai/status/1687159114047291392) are small but meaningful:
+
 - Prompt examples at the beginning of new chats, as well as suggested follow-up prompts
 - Upload multiple files
 - Keyboard shortcuts
