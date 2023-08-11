@@ -1,5 +1,5 @@
 
-**TGIF.** Here are the AI stories you need to know from this week, curated with care by yours truly. And if you use #1 productivity app Notion, don’t miss my fresh [flowchart generator](https://www.notion.vip/insights/notion-flowchart-generator-updated-and-supercharged), [Wiki guide](https://www.notion.vip/insights/notions-wiki-feature-overlooked-superpower) and [duplication explanation](https://www.notion.vip/insights/notion-faq-wheres-my-duplicate-button). 🦾
+**TGIF.** Here are the AI stories you need to know from this week, curated with care by yours truly. And if you use #1 productivity app Notion, don’t miss my fresh [Wiki guide](https://www.notion.vip/insights/notions-wiki-feature-overlooked-superpower) and [”Duplication” explanation](https://www.notion.vip/insights/notion-faq-wheres-my-duplicate-button). 🦾
 
 ### OpenAI launched a web crawler.
 - Just as Google “crawls” the web to index websites, [GPTBot](https://platform.openai.com/docs/gptbot) is consuming public web pages to train OpenAI’s large language models.
@@ -10,7 +10,7 @@
 - Maker Anthropic describes the bot as “helpful, harmless, and honest,” like a “friendly enthusiastic colleague.”
 
 ### Yes, Apple is using AI.
-- Amid this year’s AI hype, Apple has said little of the technology, prompting many analysts to question if the company is falling behind.
+- Notwithstanding this year’s AI hype, Apple has said little of the technology, prompting many analysts to question if the company is falling behind.
 - Tim Cook[ squashed those doubts](https://www.independent.co.uk/tech/apple-ai-artificial-intelligence-tim-cook-iphone-b2387879.html) with his statement that AI and machine learning are "virtually embedded in every product" that the company builds.
 - He added that Apple has been investing in AI for years, that it’s increasing that investment, and that AI is central to the design of Apple products.
 
