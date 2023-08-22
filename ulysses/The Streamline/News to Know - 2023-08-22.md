@@ -1,7 +1,7 @@
 
 \<!-- youTube(9R6WZhKH5b0) --\>
 
-**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. You’ll find [the video version](https://www.youtube.com/watch?v=9R6WZhKH5b0) particularly interesting, as it uses an AI voice cloner, [PlayHT](https://go.nutt.io/playht), which is the best value I’ve found. 🦾
+**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. You’ll find [the video version](https://www.youtube.com/watch?v=9R6WZhKH5b0) particularly interesting, as it uses an AI voice cloner, [PlayHT](https://go.nutt.io/playht), which is the best affordable option I’ve found. 🦾
 
 ### AI summaries are coming to Chrome.
 - Google [continues expanding](https://blog.google/products/search/google-search-generative-ai-learning-features/) its Search Generative Experience (SGE). Not to be confused with Bard, SGE is the AI-generated section that appears in traditional Google Search. During the current beta phase, it can be enabled from [Google Labs](https://labs.google/)(only by personal accounts, sadly, not Google Workspace users).
