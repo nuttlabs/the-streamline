@@ -1,5 +1,5 @@
 
-\<!-- youTube(hOMTsWQqw7Q) --\>
+\<!-- youTube(fACKG2nn8Lc) --\>
 
 Let's boost your expertise in ChatGPT and AI overall. Drawing from my core principles of prompt engineering, we'll craft a prompt for a family who’s concerned about their father, and they need advice for how to approach him. 
 
