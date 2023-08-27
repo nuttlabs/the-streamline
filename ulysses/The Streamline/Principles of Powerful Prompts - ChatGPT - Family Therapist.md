@@ -7,7 +7,7 @@ First, we'll assign a role to ChatGPT:
 
 `You're a family therapist.`
 
-Then we'll provide high-level context around our circumstance and our goal. In doing so, we'll be succinct and we'll use a variable as a placeholder for details we'll provide at the end of the prompt:
+Then we'll provide high-level context for our circumstance and our goal. In doing so, we'll be succinct and we'll use a variable as a placeholder for details we'll provide at the end of the prompt:
 
 `My mother, my sister and I are concerned about my father for [Reasons].`
 
