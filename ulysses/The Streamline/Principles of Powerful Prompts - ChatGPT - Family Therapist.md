@@ -15,6 +15,7 @@ Then we'll give ChatGPT a specific assignment with a clear objective:
 
 `Provide guidance for approaching him with compassion, in a way that encourages change without undermining the love and respect we hold for him.
 `
+
 At the end, we'll define that variable. We'll supply more detailed context that points ChatGPT in the right direction and minimizes uncertainty:
 
 ```
