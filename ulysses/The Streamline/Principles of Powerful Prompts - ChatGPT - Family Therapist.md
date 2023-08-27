@@ -1,5 +1,9 @@
 
-Let's craft a Chat GPT prompt with some of my principles for prompt engineering. In this scenario, a family is concerned about their father, and they need advice for how to approach him. First, we'll assign a role to ChatGPT:
+\<!-- youTube(hOMTsWQqw7Q) --\>
+
+Let's boost your expertise in ChatGPT and AI overall. Drawing from my core principles of prompt engineering, we'll craft a prompt for a family who’s concerned about their father, and they need advice for how to approach him. 
+
+First, we'll assign a role to ChatGPT:
 
 `You're a family therapist.`
 
@@ -21,4 +25,6 @@ Reaons:
 ```
 
 And with that methodical prompt, ChatGPT, as usual, provides an insightful and useful response that beautifully fulfills its objective:
+
+![](https://assets.thestreamline.ai/insights/prompts_family-therapist/chatgpt-prompt-and-response_family-therapist.png)
 
