@@ -22,7 +22,7 @@
 - Known as Generative Fill in Photoshop and “inpainting” in other apps,  [the feature](https://docs.midjourney.com/docs/vary-region) allows users to specify a region to modify.
 - Midjourney is the enduring leader among photo generators.
 
-### Access Microsoft Designer directly from Edge.
+### Access Microsoft Designer in Edge.
 - The tool accepts text prompts to generate designs with images, text and design elements. (Think promotions and invitations.)
 - It also uses OpenAI’s DALL-E model to generate images.
 - _William’s take:_ There are better design tools (read: Canva and Adobe Express), but with Bing Chat also readily available in Edge, I’m the browser more often and inclined to tinker with Designer more frequently.
