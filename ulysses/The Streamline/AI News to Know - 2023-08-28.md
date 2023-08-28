@@ -1,7 +1,7 @@
 
 \<!-- youTube(9R6WZhKH5b0) --\>
 
-**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. For this week’s [video version](https://youtu.be/tTe6dVr-sC8), I used a new voice cloner (more on that below). Once you’re up to speed, spend some time with [this ChatGPT demo](https://youtu.be/fACKG2nn8Lc) that demonstrates a few of my core principles of prompt engineering. 🦾
+**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. For this week’s video version, I used a new voice cloner (more on that below). Once you’re up to speed, spend some time with this ChatGPT demo that demonstrates a few of my core principles of prompt engineering. 🦾
 
 ### ElevenLabs debuted its voice generator.
 - [The release](https://elevenlabs.io/) was hotly anticipated after realistic deepfakes went viral during its beta stage.
@@ -25,4 +25,4 @@
 ### Access Microsoft Designer in Edge.
 - The tool accepts text prompts to generate designs with images, text and design elements. (Think promotions and invitations.)
 - It also uses OpenAI’s DALL-E model to generate images.
-- _William’s take:_ There are better design tools (read: Canva and Adobe Express), but with Bing Chat also readily available in Edge, I’m the browser more often and inclined to tinker with Designer more frequently.
+- _William’s take:_ There are better design tools (read: Canva and Adobe Express), but with Bing Chat also readily available in Edge, I’m using the browser more often and inclined to tinker with Designer more frequently.
