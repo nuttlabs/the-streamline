@@ -1,4 +1,3 @@
-# Generate your website’s privacy policy with ChatGPT or Bing
 
 \<!-- youTube(wQ6UQPRvEEE) --\>
 
