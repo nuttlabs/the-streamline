@@ -30,9 +30,13 @@ _This is where Bard fails. Despite the contrary instruction, it issues all quest
 ## Result
 With that principled prompt, ChatGPT or Bing will ask a series of questions about your website, then generate a standard privacy policy that’s suitable for most websites:
 
-![](https://assets.thestreamline.ai/insights/prompt_privacy-policy)
+![](https://assets.thestreamline.ai/insights/prompt_privacy-policy/initial-chat.jpg)
 
 ## Optional Iteration
 If you want to add an extra bulletproof layer, you can iterate on the result by asking the chatbot to identify any holes:
 
 `Analyze the privacy policy above to identify any ommitted legal requirements.`
+
+That generates an insightful response that you can use to strengthen your privacy policy:
+
+![](https://assets.thestreamline.ai/insights/prompt_privacy-policy/follow-up.jpg)
