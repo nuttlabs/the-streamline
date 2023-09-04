@@ -1,5 +1,5 @@
 
-**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. Don’t miss my guide to [enabling Duet AI](https://www.thestreamline.ai/insight/enable-duet-ai-for-google-workspace) in Google Workspace, and be sure to see [my latest prompting tutorial](https://www.thestreamline.ai/insight/generate-your-websites-privacy-policy-with-chatgpt-or-bing), where I generate a privacy policy with ChatGPT. _(Your website probably needs one.)_ 🦾
+**Ahoy.** Here are the AI stories you need to know from the past week, curated with care by yours truly. Don’t miss my guide to [enabling Duet AI](https://www.thestreamline.ai/insight/enable-duet-ai-for-google-workspace) in Google Workspace, and be sure to see [my latest prompting tutorial](https://www.thestreamline.ai/insight/generate-your-websites-privacy-policy-with-chatgpt-or-bing), where I generate a privacy policy with ChatGPT. _(Your website probably needs one.)_
 
 ### OpenAI launched ChatGPT Enterprise.
 Among other benefits, the [business-focused version of ChatGPT](https://openai.com/blog/introducing-chatgpt-enterprise) offers:
