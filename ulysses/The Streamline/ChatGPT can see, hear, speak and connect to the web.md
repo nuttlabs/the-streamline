@@ -12,7 +12,7 @@
 -  **Voice** — On ChatGPT for iOS or Android, you can communicate with ChatGPT like Siri or Alexa. Enable the feature under **Settings → New Features**, then choose among five voices.
 
 ### Bard can reference other Google apps.
-- [Bard](https://bard.google.com) is Google’s AI chatbot. It’s always accessed the web, but with [Extensions](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/), it can find and show relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights and other Google tools.
+- [Bard](https://bard.google.com) is Google’s AI chatbot. It has always accessed the web, but with [Extensions](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/), it can find and show relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights and other Google tools.
 - A new "Google it" lets you double-check Bard’s using traditional Google Search.
 
 ### Anthropic launched Claude Pro and received $4 billion from Amazon.
