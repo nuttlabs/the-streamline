@@ -1,15 +1,21 @@
 
-### Connection restored for ChatGPT.
+**Ahoy.** I’m back with another dose of AI news you need to know—and it’s a hearty one, chock-full of major updates to top apps. Once you’re up to speed, you’ll enjoy this nascent version of our _[Best-of-the-Best Apps in AI, Automation and Productivity](https://apps.thestreamline.ai/)_.
+
+### ChatGPT is back to browsing.
 - The leading AI chatbot can once again reference live information via the Browse with Bing feature.
 - The feature had been revoked due to its rampant use as a payment gateway workaround.
 - ChatGPT Plus subscribers can [enable it now](https://www.thestreamline.ai/insight/chatgpt-game-changer-browse-the-web-on-ios). OpenAI says it’s coming to users on the free tier.
 
 ### ChatGPT goes multimodal.
-- OpenAI is rolling out a [series of new features](https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html) that allow ChatGPT to analyze and generate images and voice. 
+- OpenAI is rolling out a [series of new features](https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html) that allow ChatGPT to “see, hear and speak.” 
 - They’re tricking out to Plus subscribers, and some may make their way to free users.
-- **Image Analysis** — From the web or mobile app, you can include a photo with your prompt for ChatGPT to analyze. One popular example is supplying a photo of refrigerator contents, which ChatGPT can reference to generate recipes that use available ingredients.
-- **Image Generation** — The [third version of OpenAI’s DALL-E image generator](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai) rivals Midjourney, which has been the industry standard. When it becomes available in October, Plus subscribers will be able to generate images directly from ChatGPT.
+- **Vision** — From the web or mobile app, you can include a photo with your prompt for ChatGPT to analyze. One popular example is supplying a photo of refrigerator contents, which ChatGPT can reference to generate recipes that use available ingredients.
 -  **Voice** — On ChatGPT for iOS or Android, you can communicate with ChatGPT like Siri or Alexa. Enable the feature under **Settings → New Features**, then choose among five voices.
+
+### DALL·E 3 becomes the top image generator.
+- The third version of OpenAI’s image-generating model, DALL·E, is widely considered to overtake Midjourney as the best image generator.
+- In addition to profoundly realistic photos, it effectively incorporates text into images.
+- It’s available now, for free, with [Bing Image Creator](https://www.bing.com/images/), and it’s [coming this month to ChatGPT](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai).
 
 ### Bard can reference other Google apps.
 - [Bard](https://bard.google.com) is Google’s AI chatbot. It has always accessed the web, but with [Extensions](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/), it can find and show relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights and other Google tools.
