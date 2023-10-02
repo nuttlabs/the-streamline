@@ -1,8 +1,8 @@
 
-**Ahoy.** I’m back with another dose of AI news you need to know—and it’s a hearty one, chock-full of major updates to top apps. Once you’re up to speed, you’ll enjoy this nascent version of our _[Best-of-the-Best Apps in AI, Automation and Productivity](https://apps.thestreamline.ai/)_.
+**Ahoy.** I’m back with another round of AI news you can't miss. This one's chock-full of major updates to top tools. Once you’re up to speed, dive into the early version of my highly requested _[Best-of-the-Best Apps for AI, Automation and Productivity](https://apps.thestreamline.ai/)_. Stay tuned for new filters, tutorials and new apps. And as always, say thanks with a share. 🦾
 
 ### ChatGPT is back to browsing.
-- The leading AI chatbot can once again reference live information via the Browse with Bing feature.
+- The leading AI chatbot can once again reference the live web via its Browse with Bing feature.
 - The feature had been revoked due to its rampant use as a payment gateway workaround.
 - ChatGPT Plus subscribers can [enable it now](https://www.thestreamline.ai/insight/chatgpt-game-changer-browse-the-web-on-ios). OpenAI says it’s coming to users on the free tier.
 
@@ -15,16 +15,16 @@
 ### DALL·E 3 becomes the top image generator.
 - The third version of OpenAI’s image-generating model, DALL·E, is widely considered to overtake Midjourney as the best image generator.
 - In addition to profoundly realistic photos, it effectively incorporates text into images.
-- It’s available now, for free, with [Bing Image Creator](https://www.bing.com/images/), and it’s [coming this month to ChatGPT](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai).
+- It’s available now, for free, with [Bing Image Creator](https://www.bing.com/create), and it’s [coming this month to ChatGPT](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai).
 
 ### Bard can reference other Google apps.
 - [Bard](https://bard.google.com) is Google’s AI chatbot. It has always accessed the web, but with [Extensions](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/), it can find and show relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights and other Google tools.
-- A new "Google it" lets you double-check Bard’s using traditional Google Search.
+- And a new "Google it" option lets you double-check Bard’s using traditional Google Search.
 
 ### Anthropic launched Claude Pro and received $4 billion from Amazon.
-- Anthropic makes [Claude](https://claude.ai/), a leading ChatGPT competitor best known for upholding human values via a “constitution” and accepting larger amounts of information for summarizing, analyzing or otherwise referencing when prompted.
+- Anthropic makes [Claude](https://claude.ai/), a leading ChatGPT competitor best known for upholding human values via a “constitution.”
 - For $20/mo. (the same as ChatGPT Plus), its new subscription model, [Claude Pro](https://www.anthropic.com/index/claude-pro), offers 5x more usage, prioritization during peak periods, and early access to new features.
-- This week, Amazon announced a [$4 billion investment in Anthropic](https://www.searchenginejournal.com/amazon-bets-big-on-ai-startup-anthropic-with-4-billion-investment/497156/), one of the largest investments in any AI company. Anthropic will use Amazon Web Services, and the two companies will collaborate strategically for mutual advancement.
+- This week, Amazon announced a [$4 billion investment in Anthropic](https://www.searchenginejournal.com/amazon-bets-big-on-ai-startup-anthropic-with-4-billion-investment/497156/), one of the largest investments in any AI company. Anthropic will use Amazon Web Services (AWS), and the two companies will collaborate strategically for mutual advancement.
 
 ### Meta brings AI to Instagram, WhatsApp and Messenger.
 - Meta [announced](https://www.theverge.com/2023/9/27/23891128/meta-ai-assistant-characters-whatsapp-instagram-connect) its own AI assistant and a range of AI characters that will be available across its apps.
