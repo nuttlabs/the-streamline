@@ -195,34 +195,6 @@ iframe {
 */
 
 /*
- * ---------------------- \\
- * Quotes
- * ---------------------- //
-*/
-
-/* .i-single blockquote {
-    padding: 0 0 0 24px;
-    margin: 28px;
-    border-left: 2px solid var(--color--cyan);
-    font-size: 1.08em;
-    font-style: italic;
-}
-
-.i-single blockquote p:first-of-type {
-    margin-top: 0;
-}
-
-.i-single blockquote p:last-of-type {
-    margin-bottom: 0;
-} */
-
-/*
- * ---------------------- \\
- * End quotes
- * ---------------------- //
-*/
-
-/*
  * ------------------------------------------ \\
  * ------------------------------------------ //
  * End Insight Features
