@@ -92,6 +92,14 @@ audio {
     margin: 36px auto;
 }
 
+/* Direct YouTube embeds (not inserted via Webflow) */
+
+.w-richtext > iframe[title="YouTube video player"] {
+    display: block;
+    aspect-ratio: 16 / 9;
+    margin: 50px auto;
+}
+
 /*
  * ------------------------------------------ \\
  * ------------------------------------------ //
